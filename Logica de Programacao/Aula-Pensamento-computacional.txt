@@ -1,2 +1,0 @@
-Nessa aula aprendemos sobre o pensamento computacional e como aplicar esse pensamento na resolução de problemas no nosso dia a dia. 
-Pensamento esse baseado em raciocínio lógico e em estratégias de abstratação e decomposição para resolução de problemas.
