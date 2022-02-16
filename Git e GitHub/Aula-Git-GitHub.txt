@@ -1,0 +1,18 @@
+Nessa aula aprendemos:
+
+- Instalar o Git
+- Diferença entre git e github
+- Comandos básicos do git
+- SHA1
+- Objetos fundamentais
+- Sistema distribuído
+- Segurança
+- Chave ssh e tokens
+- Iniciando o Git e criando um Commit
+- Markdown
+- Ciclo de vida dos arquivos no git
+- Introdução ao github
+- Criando repositorio no github
+- Resolvendo conflitos 
+
+

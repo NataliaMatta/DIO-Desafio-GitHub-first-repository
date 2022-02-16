@@ -1,0 +1,30 @@
+Nessa aula aprendemos muito sobre lógica de programação.
+
+- Lógica de programação: É resolver problemas, gerar solução.
+Não é simplesmente conhecer código e sim na lógica e habilidade de resolver problemas.
+Lógica é coerência de raciocínio, de idéias, ou seqüência coerente, regular e necessária de acontecimentos ou coisas.
+Lógica de programação significa apenas contextualizar a lógica de programação de computadores, buscando a melhor seqüência de ações para solucionar um problema.
+Essa seqüência de informações em informática é chamada de algoritmo.
+
+- Mapa mental: é montar um esquema para o problema a ser resolvido, é a sua lógica para resolver o problema.
+Listar o que precisa para resolver o problema, ou para desenvolver determinada coisa, software..
+
+- Metacognição: é pensar como você pensa
+
+- Abstração: É a habilidade de um ótimo programador de concentrar nos aspectos essenciais de um contexto qualquer, ignorando características menos importantes ou acidentais
+
+- Fluxograma: É uma ferramenta usada para representar graficamente um algoritmo, isto é a seqüência lógica e coerente do fluxo de dados. É uma representação esquemática de um processo. Documentação dos passos necessários para a execução de um processo qualquer.
+
+- Variáveis:“Na programação, uma variável é um objeto (uma posição, freqüentemente localizada na memória) capaz de reter e representar um valor ou expressão.” 
+“Uma variável é um espaço na memória do computador destinado a um dado que é alterado durante a execução do algoritmo”
+
+- Expressões Artiméticas, Literais e Relacionais.
+
+- Concatenação
+
+- Estrutura de repetição
+
+- Linguagem de programação (alto nível e baixo nível)
+
+- Portugol
+
